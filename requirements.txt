@@ -1,0 +1,6 @@
+flask
+requests
+pyjwt[crypto]
+cryptography
+psycopg2-binary
+gunicorn
